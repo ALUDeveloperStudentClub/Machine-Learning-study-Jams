@@ -1,0 +1,11 @@
+Topics:
+1. programming
+2. abstraction and Encapsulation in programming
+3. Python Basics , Python Interpreter , Syntax, Data Types
+4. Data Types 
+5. Operations
+6. String formating
+7. Input  and output 
+8. Control Structures
+9. Exception Handling
+
