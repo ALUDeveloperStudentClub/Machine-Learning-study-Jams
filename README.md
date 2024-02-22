@@ -1,8 +1,7 @@
 # Machine-Learning-study-Jams
-The series is dedicated to anyone interested in Machine Learning - From Python Basics to ML Models and APIs 
 
-We are happy to announce the launch of our new workshop series - "Machine Learning Study Jams". The series is dedicated to anyone interested in learning the basics of Machine Learning. 
----
+The series is dedicated to anyone interested in Machine Learning - From Python Basics to ML Models and APIs . This repo will contain a collective of resources used during the study jams and workshops.
+
 Here's what our series offers and what to expect from this repo: 
 
 ⭐ Python Basics: Master variables, loops, functions, and data types.
@@ -14,10 +13,6 @@ Here's what our series offers and what to expect from this repo:
 ⭐ ML Models & APIs: Learn to utilize ML models and APIs for practical applications.
 
 ⭐ Expert Fireside Chat: Engage with an ML pro for insights and guidance.
-
-
-
-During this first event, we will explain the basic syntax of the language, and create our first project in a friendly and relaxed atmosphere. Volunteers from the club will be there to help and delve into the language together.
 
 📍 Location: Benin 
 
