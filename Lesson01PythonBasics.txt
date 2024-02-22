@@ -9,3 +9,4 @@ Topics:
 8. Control Structures
 9. Exception Handling
 
+Activites: Hangman Game 
