@@ -4,7 +4,7 @@ The series is dedicated to anyone interested in Machine Learning - From Python B
 
 Here's what our series offers and what to expect from this repo: 
 
-⭐ Python Basics: Master variables, loops, functions, and data types.
+⭐ Python Basics: Control structures, functions, and data types.
 
 ⭐ Math Fundamentals: Strengthen your understanding of linear algebra, calculus, and statistics.
 
