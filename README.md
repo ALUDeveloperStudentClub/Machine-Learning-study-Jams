@@ -2,8 +2,8 @@
 The series is dedicated to anyone interested in Machine Learning - From Python Basics to ML Models and APIs 
 
 We are happy to announce the launch of our new workshop series - "Machine Learning Study Jams". The series is dedicated to anyone interested in learning the basics of Machine Learning. 
-
-Here's what our series offers:
+---
+Here's what our series offers and what to expect from this repo: 
 
 ⭐ Python Basics: Master variables, loops, functions, and data types.
 
