@@ -9,4 +9,76 @@ Topics:
 8. Control Structures
 9. Exception Handling
 
+
 Activites: Hangman Game 
+
+
+**Check list to Python programming**
+
+Introduction to Python:
+
+Brief history and importance of Python, Python as an Interpreted Language , as a programming Language
+Installing Python and an IDE (Integrated Development Environment) like PyCharm or Jupyter Notebook.
+
+**Basic Syntax:**
+
+Variables and data types (integers, floats, strings, booleans).
+Basic arithmetic operations (+, -, *, /, //, %).
+Printing output using the print() function.
+
+Activity: Write a program that takes two numbers as input from the user, adds them, and prints the result.
+
+**Conditional Statements:**
+
+if, elif, and else statements.
+Comparison operators (==, !=, <, >, <=, >=).
+Logical operators (and, or, not).
+
+Activity: Write a program that asks the user for their age and prints whether they are eligible to vote or not.
+
+**Loops:**
+
+for loops and while loops.
+Using loops to iterate over lists, tuples, and strings.
+
+Activity: Write a program that prints all the even numbers between 1 and 20 using a loop.
+
+**Lists and Tuples:**
+
+Creating and accessing elements in lists and tuples.
+List and tuple methods (append(), insert(), remove(), count(), etc.).
+Activity: Write a program that takes a list of numbers as input from the user, calculates the sum of all the numbers, and prints the result.
+
+**Strings:**
+
+String concatenation and formatting.
+String methods (upper(), lower(), split(), etc.).
+Activity: Write a program that asks the user for their first name and last name, then prints their full name in uppercase.
+
+**Functions:**
+
+Defining and calling functions.
+Function parameters and return values.
+Activity: Write a function that takes two numbers as input and returns their sum.
+
+**Input/Output:**
+
+Getting user input using the input() function.
+Reading from and writing to files.
+Activity: Write a program that asks the user for their favorite color, stores it in a file, and then reads and prints the color from the file.
+
+**Exception Handling:**
+
+Using try, except, finally blocks to handle errors gracefully.
+
+Activity: Write a program that asks the user to enter a number, catches any ValueError exceptions, and prints a message indicating whether the input was valid or not.
+
+**Introduction to Libraries:**
+
+Importing and using libraries/modules (e.g., random, math).
+Activity: Write a program that generates a random number between 1 and 10 and asks the user to guess it.
+
+Project (Optional):
+
+Encourage students to work on a small project to apply what they've learned, such as a simple calculator, a guessing game, or a to-do list manager, Hangman game 
+
